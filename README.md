@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marko Jak</h1>
 
-[Learn more about me here](https://stumbling.notion.site/Hello-I-m-Marko-6ec7ae9c8d2f4734a0b5d402be4b3140)
+
 
 <!-- <h3 align="center">A Solutions Engineer at Strapi and an advocate for Free Open Source Software</h3> -->
 
@@ -12,11 +12,13 @@
 
 - 🔭 I’m currently working at [TheSocialMedwork](https://thesocialmedwork.com)
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/derrickmehaffy](https://github.com/derrickmehaffy)
+- 👨‍💻 All of my projects are available at [https://github.com/markojak](https://github.com/markojak)
 
-- 📝 I regularly write articles on [https://strapi.guru](https://strapi.guru)
+- 📝 I regularly write articles on [https://markojak.com](https://markojak.com)
 
-- 💬 Ask me about **DevOps, Strapi backend, or technology hardware** -->
+- 💬 Ask me about **Growth, Product and Application architecture**
+
+[Learn more about me here](https://stumbling.notion.site/Hello-I-m-Marko-6ec7ae9c8d2f4734a0b5d402be4b3140)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
