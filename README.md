@@ -1,14 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marko Jak</h1>
 
 [Learn more about me here](https://stumbling.notion.site/Hello-I-m-Marko-6ec7ae9c8d2f4734a0b5d402be4b3140)
 
-
-<h1 align="center">Hi 👋, I'm Marko Jak</h1>
 <!-- <h3 align="center">A Solutions Engineer at Strapi and an advocate for Free Open Source Software</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markojak&label=Profile%20views&color=0e75b6&style=flat" alt="markojak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markojak" alt="markojak" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markojak" alt="markojak" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/markojak_" target="blank"><img src="https://img.shields.io/twitter/follow/markojak?logo=twitter&style=for-the-badge" alt="derrickmehaffy" /></a> </p>
 
