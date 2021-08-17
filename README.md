@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko Jak</h1>
-
-
-
-<!-- <h3 align="center">A Solutions Engineer at Strapi and an advocate for Free Open Source Software</h3> -->
+<h3 align="center">Chief Growth Officer (CGO) | Connecting Product, Marketing and Sales to meet primary growth goals / Building and writing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markojak&label=Profile%20views&color=0e75b6&style=flat" alt="markojak" /> </p>
 
