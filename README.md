@@ -31,11 +31,6 @@
 <a href="https://twitter.com/markojak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markojak" height="30" width="40" /></a>
 </p> -->
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  |               |
-| Content Cell  | Content Cell  |
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markojak&show_icons=true&locale=en" alt="markojak" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markojak" alt="markojak" /></a> </p> -->
