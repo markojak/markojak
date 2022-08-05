@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marko Jak</h1>
-<h3 align="center">Chief Growth Officer (CGO) | Connecting Product, Marketing and Sales to meet primary growth goals / Building and writing</h3>
+<h3 align="center">Advisor / Interim CPO</h3>
 
-- 🔭 I’m currently working at [TheSocialMedwork](https://thesocialmedwork.com)
+- 🔭 I’m currently helping out a few companies with their Product Strategy (clear.bio / everyone.org)
 
-- 👨‍💻 All of my projects are available at [https://github.com/markojak](https://github.com/markojak)
-
-- 📝 I regularly write articles on [https://markojak.com](https://markojak.com)
+- 📝 I (sometimes) write articles on [https://markojak.com](https://markojak.com)
 
 - 💬 Ask me about **Growth, Product and Application architecture**
 
-[Learn more about me here](https://stumbling.notion.site/Hello-I-m-Marko-6ec7ae9c8d2f4734a0b5d402be4b3140)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marchofreason&cover_image=true&theme=novatorem&bar_color=6e6e6e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=marchofreason&redirect=true)
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
