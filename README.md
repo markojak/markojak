@@ -17,9 +17,9 @@
 <p align="left"> <a href="https://twitter.com/markojak_" target="blank"><img src="https://img.shields.io/twitter/follow/markojak_?logo=twitter&style=for-the-badge" alt="markojak" /></a> </p>
 
 
-
+<!-- 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/markojak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markojak" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/markojak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="markojak" /></a></p><br><br> -->
 
 
 <!-- <h3 align="left">Connect with me:</h3>
