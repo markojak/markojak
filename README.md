@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marko Jak</h1>
-<h3 align="center">Advisor / Interim CPO</h3>
+<h3 align="center">Founder @ Unstuck</h3>
 
-- 🔭 I’m currently helping out a few companies with their Product Strategy (clear.bio / everyone.org)
+- 🔭 I’m building unstuck.work which connects engineering teams to open source communities for 1:1 expert help. 
 
 - 📝 I (sometimes) write articles on [https://markojak.com](https://markojak.com)
-
-- 💬 Ask me about **Growth, Product and Application architecture**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marchofreason&cover_image=true&theme=novatorem&bar_color=6e6e6e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=marchofreason&redirect=true)
 
