@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko Jak</h1>
-<h3 align="center">Founder @ Unstuck</h3>
+<h3 align="center">Founder @ Secta.ai</h3>
 
 - 🔭 Founder at Secta Labs - Building the next generation of photography starting with AI Generated Headshots
 
