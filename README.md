@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko Jak</h1>
 <h3 align="center">Founder @ Unstuck</h3>
 
-- 🔭 I’m building unstuck.work which connects engineering teams to open source communities for 1:1 expert help. 
+- 🔭 Founder at Secta Labs - Building the next generation of photography starting with AI Generated Headshots
 
 - 📝 I (sometimes) write articles on [https://markojak.com](https://markojak.com)
 
